@@ -16,7 +16,9 @@ public class Student {
     public String getName() {
         return name;
     }
+public static void show(){
 
+}
     public void setName(String name) {
         this.name = name;
     }
